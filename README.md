@@ -1,4 +1,4 @@
-# gdc
+# gbc
 
 Github Boys Collection
 
